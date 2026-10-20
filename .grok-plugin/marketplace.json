@@ -491,11 +491,11 @@
       "name": "leash",
       "description": "Use connected accounts through Leash protections, with activity history and supported undo.",
       "category": "security",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": {
         "source": "url",
         "url": "https://github.com/open-leash/leash-plugin.git",
-        "sha": "0e4e3567c9311530d77689bf41ddd77c9410b1f3"
+        "sha": "6550ed03a8fac6363cf6265674913003d8a82d59"
       },
       "homepage": "https://openleash.com",
       "keywords": [
