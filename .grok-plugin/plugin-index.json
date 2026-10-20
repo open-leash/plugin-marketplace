@@ -558,6 +558,28 @@
         ]
       }
     },
+    "leash": {
+      "sha": "213c1f01871091250af642579d6e64ec0a64568c",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "leash",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "leash",
+            "description": "Use Leash when the user requests protected access to their Leash-connected email, calendar, contacts, files or other ac…"
+          },
+          {
+            "name": "setup",
+            "description": "Set up Leash or check whether Leash is connected, without reading personal account data."
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "65e7edd67e77420eaf02c5df00fdc0521417d809",
       "version": "0.0.195",
