@@ -559,8 +559,8 @@
       }
     },
     "leash": {
-      "sha": "6550ed03a8fac6363cf6265674913003d8a82d59",
-      "version": "1.0.1",
+      "sha": "2ea71e12b8f2ead10cc06e8da6b3f40e6198b5c5",
+      "version": "1.0.2",
       "components": {
         "mcpServers": [
           {
